@@ -1,0 +1,3 @@
+gmad_linux create -folder "chat-rank-prefix" -out "chat-rank-prefix/chat-rank-prefix.gma"
+
+gmpublish_linux update -id 1672349324 -addon chat-rank-prefix.gma

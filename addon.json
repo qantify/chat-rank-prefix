@@ -1,0 +1,19 @@
+{
+  "title": "Chat Rank Prefix",
+  "type": "tool",
+  "tags": [
+    "fun",
+    "build"
+  ],
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    ".git",
+    ".git/*",
+    "*.gma",
+    "*.svg",
+    "*.jpg",
+    "*.png",
+    "*.txt"
+  ]
+}
